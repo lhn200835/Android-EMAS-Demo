@@ -1,0 +1,12 @@
+{
+	"other":[],
+	"main":[
+		{
+			"artifact":"FirstBundleAAR",
+			"type":"aar",
+			"version":"1.0.9.5",
+			"group":"com.taobao.android"
+		}
+	],
+	"exclude":[]
+}
