@@ -92,8 +92,8 @@ public class EmasInit {
     private static final String MEIZU_APPKEY = "90131236323e47d8b9435d022cba57bc";//"15f582f2fc67440ebcbc98c76fee2d26";
 
     /*配置信息*/
-    protected String mAppkey = "10000021";//"10000066";//"10000039";//"10000078";//"60039748";
-    protected String mAppSecret = "f7bd9a1adabacebfc1edf933ff1c020d";//"1426c10c5ce57d6cb29e016a816421a7";//"c7795717b2306055f21fb33418c1d011";//"2e00a7e9ab2048daabd4977170d37c4a";//"ab5ff148782b467bb0b310c4acd70abd"//"fe240d4b8f4b31283863cc9d707e2cb1"
+    protected String mAppkey ="20000861"; //"10000021";//"10000066";//"10000039";//"10000078";//"60039748";
+    protected String mAppSecret ="526cac2351e959c6b7df9105800592d1" ;//"f7bd9a1adabacebfc1edf933ff1c020d";//"1426c10c5ce57d6cb29e016a816421a7";//"c7795717b2306055f21fb33418c1d011";//"2e00a7e9ab2048daabd4977170d37c4a";//"ab5ff148782b467bb0b310c4acd70abd"//"fe240d4b8f4b31283863cc9d707e2cb1"
     protected String mCacheURL = "http://cdn.emas-poc.com/eweex/";
     protected String mACCSDoman = "accs.emas-poc.com";
     protected Map<String, String> mIPStrategy;
