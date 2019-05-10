@@ -37,6 +37,7 @@ public class BaseActivity extends AppCompatActivity {
 
     protected static final int CAMERA_PERMISSION_REQUEST_CODE = 0x0002;
     protected static final int STORAGE_PERMISSION_REQUEST_CODE = 0x0003;
+
     protected static final String TAG = "BaseActivity";
     protected Context mContext;
     @Override
