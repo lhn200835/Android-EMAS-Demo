@@ -88,6 +88,7 @@ public class EmasInit {
     private static final String OPPO_APPKEY = "";
     private static final String OPPO_APPSECRET = "";
 
+
     private static final String MEIZU_APPID = "117094";//"114980";
     private static final String MEIZU_APPKEY = "90131236323e47d8b9435d022cba57bc";//"15f582f2fc67440ebcbc98c76fee2d26";
 
